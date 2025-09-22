@@ -2,6 +2,7 @@
 
 
 # WE ONLY USE CONVENTIONAL COMMITS
+smd
 <!--
 
 **Here are some ideas to get you started:**
